@@ -26,7 +26,7 @@ A DevOps/Cloud Engineer passionate about Cloud and Operations :bar_chart:. I lik
   <a href="https://medium.com/@nilesh.gadgi">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white">
-      <img alt="Medium" title="Medium" height="48" width="48" src="https://cdn.simpleicons.org/medium/white"></picture></a>
+      <img alt="Medium" title="Medium" height="48" width="48" src="https://cdn.simpleicons.org/medium"></picture></a>
   <a href="mailto:gadginileshp@gmail.com">
     <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
 </p>
