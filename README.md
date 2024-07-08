@@ -2,10 +2,10 @@
 
 A DevOps/Cloud Engineer passionate about Cloud and Operations :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-- 🌱 I’m currently working as a DevOps Engineer
+- 🌱 I’m currently working as a DevOps Engineer and a Freelancer 💻
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about games 🎮, Memes, Movies 🎥, Genshin Impact
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Automation and Servers**
+- 💬 Talk to me about games 🎮, Memes, Computers 🖱️, Genshin Impact
 
 <hr>
 <p align="center">
